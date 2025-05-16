@@ -38,6 +38,11 @@ O DocGenius é um assistente de IA que permite:
 ### Pagina Inicial:
 ![Image](https://github.com/user-attachments/assets/dc25b743-f378-4fcf-8ce7-5e8797c6a44d)
 
+### Importa doc PDF:
+![Image](https://github.com/user-attachments/assets/cd3cb78a-fc17-458a-9d24-182979d54404)
+
+### Po fim o processo de conversa com agente onde ele sabe separar perguntas e trazer fonte do que foi perguntado:
+![Image](https://github.com/user-attachments/assets/a951d18c-6e43-4d01-8d6f-e0693e147aee)
 
 ### Instalação
 ```bash
