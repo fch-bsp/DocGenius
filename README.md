@@ -35,6 +35,9 @@ O DocGenius é um assistente de IA que permite:
 - Python 3.10+
 - Conta no [Google AI Studio](https://ai.google.dev/)
 - Git instalado
+### Pagina Inicial:
+![Image](https://github.com/user-attachments/assets/dc25b743-f378-4fcf-8ce7-5e8797c6a44d)
+
 
 ### Instalação
 ```bash
