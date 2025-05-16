@@ -44,6 +44,10 @@ O DocGenius é um assistente de IA que permite:
 ### Po fim o processo de conversa com agente onde ele sabe separar perguntas e trazer fonte do que foi perguntado:
 ![Image](https://github.com/user-attachments/assets/a951d18c-6e43-4d01-8d6f-e0693e147aee)
 
+## Estou utlizando o Modelo: gemini-1.5-pro-latest
+
+![Image](https://github.com/user-attachments/assets/011e6a12-cc94-473a-bda5-6e77ab8784b0)
+
 ### Instalação
 ```bash
 # Clone o repositório
@@ -55,6 +59,4 @@ cd DocGenius
 # Instale as dependências
 pip install -r requirements.txt
 
-## Estou utlizando o Modelo: gemini-1.5-pro-latest
 
-![Image](https://github.com/user-attachments/assets/011e6a12-cc94-473a-bda5-6e77ab8784b0)
