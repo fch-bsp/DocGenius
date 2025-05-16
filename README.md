@@ -1,5 +1,6 @@
 # 📚 DocGenius - Seu Assistente IA para Documentos
 
+
 ![Banner](https://via.placeholder.com/800x300?text=DocGenius+Analyze+PDFs+with+AI)
 
 **Transforme documentos estáticos em conversas inteligentes** ✨
