@@ -6,7 +6,7 @@
 
 ## 🔍 Visão Geral
 O DocGenius é um assistente de IA que permite:
-- Conversar naturalmente com seus documentos PDF/TXT
+- Conversar naturalmente com seus documentos PDF
 - Obter respostas precisas com referências diretas aos trechos originais
 - Analisar contratos, artigos, manuais e outros textos complexos
 
