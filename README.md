@@ -56,4 +56,5 @@ cd DocGenius
 pip install -r requirements.txt
 
 ## Estou utlizando o Modelo: gemini-1.5-pro-latest
+
 ![Image](https://github.com/user-attachments/assets/011e6a12-cc94-473a-bda5-6e77ab8784b0)
