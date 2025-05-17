@@ -64,12 +64,6 @@ pip install -r requirements.txt
 
 # Não esqueça de criar um .env e adicionar sua key do Google Gemini
 
-## 📝 Direitos Autorais
 
-© 2025 DocGenius. Todos os direitos reservados.
-
-Este projeto e todo seu conteúdo, incluindo código-fonte, documentação, design de interface e conceitos implementados, são protegidos por leis de direitos autorais. Não é permitida a reprodução, distribuição ou criação de trabalhos derivados sem autorização expressa do autor.
-
-Desenvolvido para participação do Premiação melhores projetos Imersão IA_
 
 
