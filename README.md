@@ -6,9 +6,11 @@
 
 ## 🔍 Visão Geral
 O DocGenius é um assistente de IA que permite:
-- Conversar naturalmente com seus documentos PDF
+- Conversar naturalmente com seus documentos PDF e TXT
 - Obter respostas precisas com referências diretas aos trechos originais
 - Analisar contratos, artigos, manuais e outros textos complexos
+- Consegue entender se sua pergunta está relacionada a base de dados dos arquivos ou não 
+- Utliza LLM da Google Gemini
 
 ## 🎯 Funcionalidades Principais
 | Feature | Descrição |
@@ -34,17 +36,18 @@ O DocGenius é um assistente de IA que permite:
 ### Pré-requisitos
 - Python 3.10+
 - Conta no [Google AI Studio](https://ai.google.dev/)
+- Modelo gemini-1.5-pro-latest
 - Git instalado
 ### Pagina Inicial:
 ![Image](https://github.com/user-attachments/assets/dc25b743-f378-4fcf-8ce7-5e8797c6a44d)
 
-### Importa doc PDF:
+### Importa os documentos em  PDF/TXT:
 ![Image](https://github.com/user-attachments/assets/cd3cb78a-fc17-458a-9d24-182979d54404)
 
-### Po fim o processo de conversa com agente onde ele sabe separar perguntas e trazer fonte do que foi perguntado:
+### Uma interface simples e intuitiva que permite interagir com nosso assistente, cujas respostas são assertivas e diretas.
 ![Image](https://github.com/user-attachments/assets/a951d18c-6e43-4d01-8d6f-e0693e147aee)
 
-## Estou utlizando o Modelo: gemini-1.5-pro-latest
+## Para essa versão da aplicação estou utlizando o modelo: gemini-1.5-pro-latest
 
 ![Image](https://github.com/user-attachments/assets/011e6a12-cc94-473a-bda5-6e77ab8784b0)
 
@@ -58,5 +61,15 @@ cd DocGenius
 
 # Instale as dependências
 pip install -r requirements.txt
+
+# Não esqueça de criar um .env e adicionar sua key do Google Gemini
+
+## 📝 Direitos Autorais
+
+© 2025 DocGenius. Todos os direitos reservados.
+
+Este projeto e todo seu conteúdo, incluindo código-fonte, documentação, design de interface e conceitos implementados, são protegidos por leis de direitos autorais. Não é permitida a reprodução, distribuição ou criação de trabalhos derivados sem autorização expressa do autor.
+
+Desenvolvido para participação do Premiação melhores projetos Imersão IA_
 
 
