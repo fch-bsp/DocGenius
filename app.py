@@ -62,7 +62,7 @@ def is_about_documents(question):
     return not any(greeting in question.lower() for greeting in greetings)
 
 def main():
-    st.title("📚 DocGenius Assistente de Documentos Inteligente")
+    st.title("📚 Assistente de Documentos Inteligente")
     
     # Verifica modelo disponível
     model_name = get_valid_model()
